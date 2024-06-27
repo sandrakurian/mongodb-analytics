@@ -2,6 +2,7 @@
 
 I am taking [MongoDB Aggregation Framework](https://www.coursera.org/learn/mongodb-aggregation-framework/home) course in Coursea.
 
+
 ## Couse Description
 
 This course will teach you how to perform data analysis using MongoDB's powerful Aggregation Framework.
@@ -10,3 +11,19 @@ You'll begin this course by building a foundation of essential aggregation knowl
 MongoDB.
 
 By the end of this course you'll understand how to best use MongoDB and its Aggregation Framework in your own data science workflow.
+
+
+## Setting Up
+
+ Run this command from inside the aggregation-framework folder  
+`conda create -n aggregation-framework python=3.6 anaconda`
+
+Activate this environment  
+`source activate aggregation-framework`
+
+Start your Jupyter notebook  
+`jupyter notebook`
+
+Point your browser to http://localhost:8888/ to access the Jupyter Notebook interface
+
+
